@@ -62,6 +62,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'carrierwave'
 
 gem 'faker', '~> 1.8', '>= 1.8.7'
-
+#Fog
 gem 'fog'
+#Figaro
+gem 'figaro'
 
