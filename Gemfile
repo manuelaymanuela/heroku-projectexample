@@ -51,7 +51,7 @@ group :development do
   gem 'sqlite3'
 end
 
-#para Heroku contraseña MssL1335.- usuario manuelaymanuela@hotmail.com:
+#para Heroku:
 group :production do
   gem 'pg'
 end
